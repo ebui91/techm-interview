@@ -1,0 +1,32 @@
+ {
+    "classes": ["10", "12"],
+    "sections": [
+        {
+            "secid": "001",
+            "class": "10",
+            "sections": ["A", "B", "C", "D"]
+        },
+        {
+            "secid": "002",
+            "class": "12",
+            "sections": ["A", "B"]            
+        }
+    ],
+    "students": [
+        {
+            "secid": "001",
+            "stuid": "001_1",
+            "name": "Student 1"
+        },
+        {
+            "secid": "002",
+            "stuid": "002_1",
+            "name": "Student 2"
+        },
+        {
+            "secid": "001",
+            "stuid": "001_2",
+            "name": "Student 3"
+        }
+    ]
+}
